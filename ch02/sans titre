@@ -1,0 +1,11 @@
+<?php
+/**
+ * Affiche les variables serveur prédéfinies de PHP
+ *
+ * @author: CLY
+ * @date : 2015.02.20
+ */
+ // Variables
+ // Pas de variables
+?>
+<!DOCTYPE html>
